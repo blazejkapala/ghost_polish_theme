@@ -1,6 +1,6 @@
 # Motyw jest modyfikacją motywu Casper
 
-Domyślnym motywem dla [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
+Domyślnym motywem dla [Ghost](http://github.com/tryghost/ghost/) jest Casper. Jeżeli szukasz najnowszej wersji Casper'a możesz [pobrać go tutaj](https://github.com/TryGhost/Casper/releases).
 
 &nbsp;
 
@@ -8,7 +8,7 @@ Domyślnym motywem dla [Ghost](http://github.com/tryghost/ghost/). This is the l
 
 &nbsp;
 
-# First time using a Ghost theme?
+<!-- # First time using a Ghost theme?
 
 Ghost uses a simple templating language called [Handlebars](http://handlebarsjs.com/) for its themes.
 
@@ -63,4 +63,4 @@ You can add your own SVG icons in the same manner.
 
 # Copyright & License
 
-Copyright (c) 2013-2021 Ghost Foundation - Released under the [MIT license](LICENSE).
+Copyright (c) 2013-2021 Ghost Foundation - Released under the [MIT license](LICENSE). -->
