@@ -8,6 +8,10 @@ Domyślnym motywem dla [Ghost](http://github.com/tryghost/ghost/) jest Casper. J
 
 &nbsp;
 
+# Polska wersja
+
+Tworząc stronę [bike.beskidy.pl](http://bike.beskidy.pl/) postanowiłem skorzystać właśnie z Ghost'a ale nie mogłem znaleść do niego spolszczonejego motywy, rozpocząłem go tłumaczyć i modyfikować pod swoje potrzeby - a ich wynik upubliczniam.
+
 <!-- # First time using a Ghost theme?
 
 Ghost uses a simple templating language called [Handlebars](http://handlebarsjs.com/) for its themes.
